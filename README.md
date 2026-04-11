@@ -1,2 +1,0 @@
-# HotelManagementSystem
-Hotel Management Project
